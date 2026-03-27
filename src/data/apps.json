@@ -35,7 +35,7 @@
   {
     "id": "2",
     "title": "SmPlan:ToDo List With Reminder",
-    "image": "/2.webp",
+    "image": "/2.png",
     "companyName": "productive.io",
     "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\nA unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you've worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\nFor people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you're studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
     "size": "291 MB",
@@ -68,7 +68,7 @@
   {
     "id": "3",
     "title": "FLIP - Focus Timer For Study",
-    "image": "/3.webp",
+    "image": "/3.png",
     "companyName": "productive.io",
     "description": "Flip your phone and focus. A unique approach to study sessions that prevents you from looking at your screen.",
     "size": "150 MB",
@@ -134,7 +134,7 @@
   {
     "id": "5",
     "title": "Time Planner: Schedule & Tasks",
-    "image": "/5.webp",
+    "image": "/5.png",
     "companyName": "productive.io",
     "description": "All your schedule and tasks in one place. Synchronize with your calendars and never miss a beat.",
     "size": "210 MB",
@@ -200,7 +200,7 @@
   {
     "id": "7",
     "title": "Focus Plant: Pomodoro Forest",
-    "image": "/7.webp",
+    "image": "/7.png",
     "companyName": "eco.apps",
     "description": "Grow virtual plants by staying focused. Plant real trees when you reach milestones.",
     "size": "300 MB",
@@ -233,7 +233,7 @@
   {
     "id": "8",
     "title": "Alarmy - Alarm Clock & Sleep",
-    "image": "/8.webp",
+    "image": "/8.png",
     "companyName": "sleep.well",
     "description": "The alarm clock that actually wakes you up. Solve math problems or scan barcodes to turn it off.",
     "size": "180 MB",
@@ -266,7 +266,7 @@
   {
     "id": "9",
     "title": "Minimalist Launcher",
-    "image": "/9.webp",
+    "image": "/9.png",
     "companyName": "minimal.tech",
     "description": "Reduce screen time by simplifying your home screen entirely.",
     "size": "50 MB",
@@ -332,7 +332,7 @@
   {
     "id": "11",
     "title": "Habitica: Gamify Your Tasks",
-    "image": "/11.webp",
+    "image": "/11.png",
     "companyName": "habitica.inc",
     "description": "Treat your life like a game to stay motivated and organized.",
     "size": "250 MB",
