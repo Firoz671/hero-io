@@ -21,7 +21,7 @@ HERO.IO is a premium web application that serves as an App Marketplace. It allow
 - LocalStorage 
 
 ## Live Link
-- [Insert Live Deployment URL Here]
+- [https://hero-io-omega-pink.vercel.app/]
 
 ## Local Setup
 1. Clone the repository
