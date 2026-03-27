@@ -200,7 +200,7 @@
   {
     "id": "7",
     "title": "Focus Plant: Pomodoro Forest",
-    "image": "/focusplant.png",
+    "image": "/7.webp",
     "companyName": "eco.apps",
     "description": "Grow virtual plants by staying focused. Plant real trees when you reach milestones.",
     "size": "300 MB",
@@ -233,7 +233,7 @@
   {
     "id": "8",
     "title": "Alarmy - Alarm Clock & Sleep",
-    "image": "/alarmy.png",
+    "image": "/8.webp",
     "companyName": "sleep.well",
     "description": "The alarm clock that actually wakes you up. Solve math problems or scan barcodes to turn it off.",
     "size": "180 MB",
@@ -266,7 +266,7 @@
   {
     "id": "9",
     "title": "Minimalist Launcher",
-    "image": "/launcher.png",
+    "image": "/9.webp",
     "companyName": "minimal.tech",
     "description": "Reduce screen time by simplifying your home screen entirely.",
     "size": "50 MB",
@@ -299,7 +299,7 @@
   {
     "id": "10",
     "title": "Deep Work Timer",
-    "image": "/deepwork.png",
+    "image": "/10.webp",
     "companyName": "productive.io",
     "description": "Based on Cal Newport's Deep Work philosophy. Train your ability to focus without distraction.",
     "size": "80 MB",
@@ -332,7 +332,7 @@
   {
     "id": "11",
     "title": "Habitica: Gamify Your Tasks",
-    "image": "/habitica.png",
+    "image": "/11.webp",
     "companyName": "habitica.inc",
     "description": "Treat your life like a game to stay motivated and organized.",
     "size": "250 MB",
@@ -365,7 +365,7 @@
   {
     "id": "12",
     "title": "Brain Focus Productivity Timer",
-    "image": "/brainfocus.png",
+    "image": "/12.webp",
     "companyName": "brain.tech",
     "description": "A time-management application helping you to get things done! Manage your time with customizable work sessions.",
     "size": "110 MB",
