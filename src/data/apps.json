@@ -10,17 +10,32 @@
     "reviews": "54K",
     "ratingAvg": 5.0,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 2800 },
-      { "name": "4 star", "count": 6500 },
-      { "name": "5 star", "count": 11000 }
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 2800
+      },
+      {
+        "name": "4 star",
+        "count": 6500
+      },
+      {
+        "name": "5 star",
+        "count": 11000
+      }
     ]
   },
   {
     "id": "2",
     "title": "SmPlan:ToDo List With Reminder",
-    "image": "/smplan.png",
+    "image": "/2.webp",
     "companyName": "productive.io",
     "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.\n\nA unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you've worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.\n\nFor people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you're studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day.",
     "size": "291 MB",
@@ -28,17 +43,32 @@
     "reviews": "54K",
     "ratingAvg": 4.9,
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 2500 },
-      { "name": "4 star", "count": 5500 },
-      { "name": "5 star", "count": 10500 }
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 2500
+      },
+      {
+        "name": "4 star",
+        "count": 5500
+      },
+      {
+        "name": "5 star",
+        "count": 10500
+      }
     ]
   },
   {
     "id": "3",
     "title": "FLIP - Focus Timer For Study",
-    "image": "/flip.png",
+    "image": "/3.webp",
     "companyName": "productive.io",
     "description": "Flip your phone and focus. A unique approach to study sessions that prevents you from looking at your screen.",
     "size": "150 MB",
@@ -46,17 +76,32 @@
     "reviews": "32K",
     "ratingAvg": 4.8,
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 2200 },
-      { "name": "4 star", "count": 5000 },
-      { "name": "5 star", "count": 9000 }
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2200
+      },
+      {
+        "name": "4 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 9000
+      }
     ]
   },
   {
     "id": "4",
     "title": "Pomocat - Cute Pomodoro Timer",
-    "image": "/pomocat.png",
+    "image": "/4.webp",
     "companyName": "cute.apps",
     "description": "A pomodoro timer where you collect cute cats as you focus. The more you work, the more cats you unlock!",
     "size": "95 MB",
@@ -64,17 +109,32 @@
     "reviews": "18K",
     "ratingAvg": 4.7,
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2000 },
-      { "name": "4 star", "count": 4500 },
-      { "name": "5 star", "count": 8500 }
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 8500
+      }
     ]
   },
   {
     "id": "5",
     "title": "Time Planner: Schedule & Tasks",
-    "image": "/timeplanner.png",
+    "image": "/5.webp",
     "companyName": "productive.io",
     "description": "All your schedule and tasks in one place. Synchronize with your calendars and never miss a beat.",
     "size": "210 MB",
@@ -82,17 +142,32 @@
     "reviews": "90K",
     "ratingAvg": 4.6,
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 4000 },
-      { "name": "4 star", "count": 10000 },
-      { "name": "5 star", "count": 15000 }
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 15000
+      }
     ]
   },
   {
     "id": "6",
     "title": "Morning Habits - Daily Routine",
-    "image": "/morninghabits.png",
+    "image": "/6.webp",
     "companyName": "habit.inc",
     "description": "Build the perfect morning routine. Track hydration, meditation, and exercise right after waking up.",
     "size": "120 MB",
@@ -100,11 +175,26 @@
     "reviews": "25K",
     "ratingAvg": 4.9,
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1500 },
-      { "name": "4 star", "count": 5500 },
-      { "name": "5 star", "count": 9800 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 800
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 5500
+      },
+      {
+        "name": "5 star",
+        "count": 9800
+      }
     ]
   },
   {
@@ -118,11 +208,26 @@
     "reviews": "40K",
     "ratingAvg": 4.8,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 3000 },
-      { "name": "4 star", "count": 8000 },
-      { "name": "5 star", "count": 12000 }
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 8000
+      },
+      {
+        "name": "5 star",
+        "count": 12000
+      }
     ]
   },
   {
@@ -136,11 +241,26 @@
     "reviews": "150K",
     "ratingAvg": 4.5,
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 8000 },
-      { "name": "3 star", "count": 10000 },
-      { "name": "4 star", "count": 20000 },
-      { "name": "5 star", "count": 35000 }
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 8000
+      },
+      {
+        "name": "3 star",
+        "count": 10000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 35000
+      }
     ]
   },
   {
@@ -154,11 +274,26 @@
     "reviews": "22K",
     "ratingAvg": 4.7,
     "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 1100 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4800 },
-      { "name": "5 star", "count": 8200 }
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 4800
+      },
+      {
+        "name": "5 star",
+        "count": 8200
+      }
     ]
   },
   {
@@ -172,11 +307,26 @@
     "reviews": "8K",
     "ratingAvg": 4.9,
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 5000 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 5000
+      }
     ]
   },
   {
@@ -190,11 +340,26 @@
     "reviews": "110K",
     "ratingAvg": 4.6,
     "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 8000 },
-      { "name": "4 star", "count": 25000 },
-      { "name": "5 star", "count": 40000 }
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 5000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 40000
+      }
     ]
   },
   {
@@ -208,11 +373,26 @@
     "reviews": "16K",
     "ratingAvg": 4.7,
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 4000 },
-      { "name": "5 star", "count": 9000 }
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 4000
+      },
+      {
+        "name": "5 star",
+        "count": 9000
+      }
     ]
   }
 ]

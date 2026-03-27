@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Search } from 'lucide-react';
+import { FiSearch } from 'react-icons/fi';
 import AppCard from '../components/AppCard';
 import appsData from '../data/apps.json';
 
@@ -74,7 +74,7 @@ const Apps = () => {
 
              {/* Search Input */}
             <div className="relative w-full sm:w-64">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={16} />
+              <FiSearch className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={16} />
               <input
                 type="text"
                 placeholder="search Apps"

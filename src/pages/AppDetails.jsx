@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { Download, Star, MessageSquare } from 'lucide-react';
+import { FiDownload, FiStar, FiMessageSquare } from 'react-icons/fi';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import { toast } from 'react-toastify';
 import appsData from '../data/apps.json';
@@ -58,21 +58,21 @@ const AppDetails = () => {
             
             <div className="flex flex-wrap items-center gap-8 mb-8">
               <div className="flex items-center gap-3">
-                <Download className="text-[#06D6A0]" size={32} />
+                <FiDownload className="text-[#06D6A0]" size={32} />
                 <div>
                     <div className="text-sm text-gray-500 mb-1 leading-none">Downloads</div>
                     <div className="font-bold text-2xl text-[#0b1727] leading-none">{app.downloads}</div>
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                <Star className="text-[#FF9F1C]" fill="currentColor" size={32} />
+                <FiStar className="text-[#FF9F1C]" fill="currentColor" size={32} />
                  <div>
                     <div className="text-sm text-gray-500 mb-1 leading-none">Average Ratings</div>
                     <div className="font-bold text-2xl text-[#0b1727] leading-none">{app.ratingAvg || 5}</div>
                 </div>
               </div>
                <div className="flex items-center gap-3">
-                <MessageSquare className="text-[#8758FF]" size={32} />
+                <FiMessageSquare className="text-[#8758FF]" size={32} />
                  <div>
                     <div className="text-sm text-gray-500 mb-1 leading-none">Total Reviews</div>
                     <div className="font-bold text-2xl text-[#0b1727] leading-none">{app.reviews}</div>

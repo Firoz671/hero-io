@@ -12,13 +12,13 @@ HERO.IO is a premium web application that serves as an App Marketplace. It allow
 - **Error Handling:** Custom 404 and "App Not Found" pages for seamless UX when navigating to invalid routes.
 
 ## Tech Stack
-- React.js (Vite)
+- React.js 
 - Tailwind CSS
 - React Router DOM
 - Recharts
 - React Toastify
 - Lucide React (Icons)
-- LocalStorage API
+- LocalStorage 
 
 ## Live Link
 - [Insert Live Deployment URL Here]
@@ -27,4 +27,3 @@ HERO.IO is a premium web application that serves as an App Marketplace. It allow
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm run dev`
-4. Open the application on your local development port.

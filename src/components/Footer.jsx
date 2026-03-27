@@ -1,4 +1,4 @@
-import { Twitter, Linkedin, Facebook } from 'lucide-react';
+import { FiTwitter, FiLinkedin, FiFacebook } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -16,9 +16,9 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-end gap-3">
              <span className="font-medium text-sm text-gray-300">Social Links</span>
              <div className="flex gap-4 text-gray-400">
-               <a href="#" className="hover:text-white transition-colors"><Twitter size={20} /></a>
-               <a href="#" className="hover:text-white transition-colors"><Linkedin size={20} /></a>
-               <a href="#" className="hover:text-white transition-colors"><Facebook size={20} /></a>
+               <a href="#" className="hover:text-white transition-colors"><FiTwitter size={20} /></a>
+               <a href="#" className="hover:text-white transition-colors"><FiLinkedin size={20} /></a>
+               <a href="#" className="hover:text-white transition-colors"><FiFacebook size={20} /></a>
              </div>
           </div>
         </div>

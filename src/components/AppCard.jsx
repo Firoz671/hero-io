@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Download, Star } from 'lucide-react';
+import { FiDownload, FiStar } from 'react-icons/fi';
 
 const AppCard = ({ app }) => {
   return (
@@ -18,11 +18,11 @@ const AppCard = ({ app }) => {
         {/* Footer info (Downloads & Rating) */}
         <div className="flex items-center justify-between mt-auto">
           <div className="flex items-center text-[#06D6A0] gap-1 text-sm font-medium bg-[#06D6A0]/10 px-2 py-1 rounded">
-            <Download size={14} />
+            <FiDownload size={14} />
             <span>{app.downloads}</span>
           </div>
           <div className="flex items-center text-[#FF9F1C] gap-1 text-sm font-medium bg-[#FF9F1C]/10 px-2 py-1 rounded">
-            <Star size={14} fill="currentColor" className="text-[#FF9F1C]" />
+            <FiStar size={14} fill="currentColor" className="text-[#FF9F1C]" />
             <span>{app.ratingAvg || 5}</span>
           </div>
         </div>

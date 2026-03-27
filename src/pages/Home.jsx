@@ -15,23 +15,23 @@ const Home = () => {
                     <span className="text-[#8758FF]">Productive</span> <span className="text-[#102a43]">Apps</span>
                 </h1>
                 <p className="text-gray-500 text-[15px] md:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
-                    At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. 
+                    At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.
                     Our goal is to turn your ideas into digital experiences that truly make an impact.
                 </p>
                 <div className="flex gap-4 mb-16 justify-center">
                     <button className="flex items-center gap-2 border border-gray-200 bg-white hover:bg-gray-50 px-6 py-3 rounded-lg font-medium transition-colors shadow-sm">
-                        <img src="/google-play.png" alt="Google Play" className="h-6 w-auto" />
+                        <img src="/google.png" alt="Google Play" className="h-6 w-auto" />
                         <span className="text-sm">Google Play</span>
                     </button>
                     <button className="flex items-center gap-2 border border-gray-200 bg-white hover:bg-gray-50 px-6 py-3 rounded-lg font-medium transition-colors shadow-sm">
-                         <img src="/app-store.png" alt="App Store" className="h-6 w-auto" />
+                        <img src="/apple.png" alt="App Store" className="h-6 w-auto" />
                         <span className="text-sm">App Store</span>
                     </button>
                 </div>
-                
+
                 {/* Hero Image */}
                 <div className="relative w-full max-w-xs md:max-w-md lg:max-w-lg mx-auto">
-                    <img src="/hero-image.png" alt="App Preview" className="w-full h-auto drop-shadow-2xl z-10 relative" />
+                    <img src="/hero.png" alt="App Preview" className="w-full h-auto drop-shadow-2xl z-10 relative" />
                 </div>
             </section>
 
